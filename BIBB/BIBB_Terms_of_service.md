@@ -138,5 +138,5 @@ This section tracks major changes to these Terms of Service to help users unders
 - **Analytics disclosure**: Added section on Google Analytics 4 and Microsoft Clarity usage
 - **Newsletter framework**: Detailed newsletter subscription and unsubscription process with GDPR compliance
 
-### Version 1.0 - Valid until - Oct 30, 2025
+### Version 1.0 - Valid until - September 30th, 2025
 - Initial Terms of Service
